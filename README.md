@@ -5,7 +5,7 @@ Ushering in deep learning's foray into the netherworld of eyeballing
 #  <center> <h1>Scatter2Pearson:</h1> </center>
 
 ## Some intro to Pearson's-$r$ from [Wikipedia:](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
-<img src="r_formula.png" height="200" width="300">
+<img src="r_formula.png" height="120" width="300">
 <img src="wiki_intro.png" height="300" width="500">
 
 ### Project description: 
